@@ -13,8 +13,10 @@ print(y)
 
 #Variables do not need to be declared with any particular type. and can even change type after they have been set.
 #example
-x = 5 # x is of type int
-x = "five" # x is now of type str
+x = 5
+# x is of type int
+x = "five"
+# x is now of type str
 print(x)
 
 
@@ -28,7 +30,20 @@ x = float(3) # x will be 3.0
 print(x)
 
 #Get the Type (cara mengetahui tipe data)
-y = "string"
+y = "stringg"
 z = 3.0
 print(type(y))
 print(type(z))
+
+#Single or Double Quotes?
+print(5*'=', "Single or Double Quotes?", 5*'=')
+#String variables can be declared either by using single or double quotes
+#example
+xx = "John"
+yy = 'John'
+#Bisa salah satu
+print(xx)
+
+
+#Case-Sensitive
+print(5*'=', "Case-Sensitive", 5*'=')
