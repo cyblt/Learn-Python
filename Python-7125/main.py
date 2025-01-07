@@ -16,3 +16,19 @@ print(y)
 x = 5 # x is of type int
 x = "five" # x is now of type str
 print(x)
+
+
+#Python Casting
+
+#If you want to specify the data type of a variable, this can be done with casting.
+#example
+x = str(3) # x will be "3"
+x = int(3) # x will be 3
+x = float(3) # x will be 3.0
+print(x)
+
+#Get the Type (cara mengetahui tipe data)
+y = "string"
+z = 3.0
+print(type(y))
+print(type(z))
