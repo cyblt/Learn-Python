@@ -109,9 +109,6 @@ Dengan memahami casting, Anda bisa lebih fleksibel mengontrol tipe data dalam pr
 
 
 
-
-#Apakah casting dalam Python dapat dilakukan di semua tipe data? atau hanya int, float, dan str?
-
 Berikut penjelasan lengkapnya:
 
 ---
