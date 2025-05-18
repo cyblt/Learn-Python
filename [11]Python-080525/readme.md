@@ -1,3 +1,7 @@
+# Chapter Python-Slicing-String
+
+## Berikut penjelasan dari AI
+
 Berikut penjelasan lengkap dan mudah dipahami tentang **String Slicing (Pemotongan String)** di Python:
 
 ---
